@@ -4228,14 +4228,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/styled-components@npm:^5.1.15":
-  version: 5.1.15
-  resolution: "@types/styled-components@npm:5.1.15"
+"@types/styled-components@npm:^5.1.26":
+  version: 5.1.26
+  resolution: "@types/styled-components@npm:5.1.26"
   dependencies:
     "@types/hoist-non-react-statics": "*"
     "@types/react": "*"
     csstype: ^3.0.2
-  checksum: d565e0a3cf3fdb79aab73c0aa2d69d93152afe2661b3ec546592b64e0781f05d21d2a9715a15acaa8422b6d6a2b1250d9ba8c96ea656776051351393bada7a82
+  checksum: 84f53b3101739b20d1731554fb7735bc2f3f5d050a8b392e9845403c8c8bbd729737d033978649f9195a97b557875b010d46e35a4538564a2d0dbcce661dbf76
   languageName: node
   linkType: hard
 
@@ -11611,7 +11611,7 @@ __metadata:
     "@types/react": ^17.0.31
     "@types/react-dom": ^17.0.10
     "@types/react-helmet": ^6.1.4
-    "@types/styled-components": ^5.1.15
+    "@types/styled-components": ^5.1.26
     "@typescript-eslint/eslint-plugin": ^5.1.0
     babel-jest: ^27.3.1
     cypress: ^8.6.0
@@ -11750,7 +11750,7 @@ __metadata:
     "@types/node": ^16.11.4
     "@types/react": ^17.0.31
     "@types/react-dom": ^17.0.10
-    "@types/styled-components": ^5.1.15
+    "@types/styled-components": ^5.1.26
     "@types/xml2js": ^0.4.9
     "@typescript-eslint/eslint-plugin": ^5.1.0
     axe-core: ^4.3.3
